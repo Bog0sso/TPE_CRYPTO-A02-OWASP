@@ -1,23 +1,22 @@
 {
-  "name": "nodejs-jwt-example",
+  "name": "tpe_crypto-a02-owasp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eslintrc.js",
   "scripts": {
-    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bog0sso/TPE_CRYPTO-A02-OWASP.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "jsonwebtoken": "^7.1.9",
-    "mongoose": "^4.7.1",
-    "morgan": "^1.7.0"
+  "bugs": {
+    "url": "https://github.com/Bog0sso/TPE_CRYPTO-A02-OWASP/issues"
   },
-  "devDependencies": {
-    "eslint": "^3.11.1"
+  "homepage": "https://github.com/Bog0sso/TPE_CRYPTO-A02-OWASP#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
